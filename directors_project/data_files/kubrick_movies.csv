@@ -1,0 +1,17 @@
+Index,Movie Title,Release Date,Runtime,Age Rating,Genre(s),Review Rating
+0,Eyes Wide Shut,16 July 1999 (USA),2h 39min,R,"['\nDrama, \nMystery, \nThriller\n']",7.4/10
+1,Full Metal Jacket,10 July 1987 (USA),1h 56min,R,"['\nDrama, \nWar\n']",8.3/10
+2,The Shining,13 June 1980 (USA),2h 26min,R,"['\nDrama, \nHorror\n']",8.4/10
+3,Barry Lyndon,18 December 1975 (USA),3h 5min,PG,"['\nAdventure, \nDrama, \nHistory\n']",8.1/10
+4,A Clockwork Orange,2 February 1972 (USA),2h 16min,R,"['\nCrime, \nDrama, \nSci-Fi\n']",8.3/10
+5,2001: A Space Odyssey,12 May 1968 (UK),2h 29min,G,"['\nAdventure, \nSci-Fi\n']",8.3/10
+6,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,29 January 1964 (USA),1h 35min,PG,['\nComedy\n'],8.4/10
+7,Lolita,21 June 1962 (West Germany),2h 33min,Not Rated,"['\nCrime, \nDrama, \nRomance\n']",7.6/10
+8,Spartacus,17 November 1960 (Brazil),3h 17min,PG-13,"['\nAdventure, \nBiography, \nDrama\n']",7.9/10
+9,Paths of Glory,25 December 1957 (USA),1h 28min,Approved,"['\nDrama, \nWar\n']",8.4/10
+10,The Killing,6 June 1956 (USA),1h 24min,Approved,"['\nCrime, \nDrama, \nFilm-Noir\n']",8.0/10
+11,Killer's Kiss,1 October 1955 (USA),1h 7min,Not Rated,"['\nCrime, \nDrama, \nFilm-Noir\n']",6.6/10
+12,The Seafarers,15 October 1953 (USA),29min,Not Rated,"['\nDocumentary, \nShort\n']",5.4/10
+13,Fear and Desire,1 April 1953 (USA),1h 2min,Not Rated,"['\nDrama, \nThriller, \nWar\n']",5.5/10
+14,Day of the Fight,30 March 1951 (USA),16min,Approved,"['\nDocumentary, \nShort, \nSport\n']",6.3/10
+15,Flying Padre,23 March 1951 (USA),9min,Approved,"['\nDocumentary, \nShort\n']",5.6/10

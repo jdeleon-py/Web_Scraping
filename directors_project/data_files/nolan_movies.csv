@@ -1,0 +1,15 @@
+Index,Movie Title,Release Date,Runtime,Age Rating,Genre(s),Review Rating
+0,Dunkirk,21 July 2017 (USA),1h 46min,PG-13,"['\nAction, \nDrama, \nHistory\n']",7.9/10
+1,Quay,30 July 2016 (Russia),8min,Not Rated,"['\nDocumentary, \nShort\n']",6.8/10
+2,Interstellar,7 November 2014 (USA),2h 49min,PG-13,"['\nAdventure, \nDrama, \nSci-Fi\n']",8.6/10
+3,The Dark Knight Rises,20 July 2012 (USA),2h 44min,PG-13,"['\nAction, \nAdventure\n']",8.4/10
+4,Inception,16 July 2010 (USA),2h 28min,PG-13,"['\nAction, \nAdventure, \nSci-Fi\n']",8.8/10
+5,The Dark Knight,18 July 2008 (USA),2h 32min,PG-13,"['\nAction, \nCrime, \nDrama\n']",9.0/10
+6,The Prestige,20 October 2006 (USA),2h 10min,PG-13,"['\nDrama, \nMystery, \nSci-Fi\n']",8.5/10
+7,Batman Begins,15 June 2005 (USA),2h 20min,PG-13,"['\nAction, \nAdventure\n']",8.2/10
+8,Insomnia,24 May 2002 (USA),1h 58min,R,"['\nDrama, \nMystery, \nThriller\n']",7.2/10
+9,Memento,25 May 2001 (USA),1h 53min,R,"['\nMystery, \nThriller\n']",8.4/10
+10,Following,5 November 1999 (UK),1h 9min,R,"['\nCrime, \nMystery, \nThriller\n']",7.5/10
+11,Doodlebug,1997 (UK),3min,Not Rated,"['\nShort, \nFantasy, \nMystery\n']",7.1/10
+12,Larceny,1996 (USA),N/A,Short,N/A,7.8/10
+13,Tarantella,TV Short 1989,4min,N/A,['\nTV Short 1989'],7.2/10

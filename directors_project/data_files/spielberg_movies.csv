@@ -1,0 +1,56 @@
+Index,Movie Title,Release Date,Runtime,Age Rating,Genre(s),Review Rating
+0,Ready Player One,29 March 2018 (USA),2h 20min,PG-13,"['\nAction, \nAdventure, \nSci-Fi\n']",7.5/10
+1,The Post,12 January 2018 (USA),1h 56min,PG-13,"['\nDrama, \nThriller\n']",7.2/10
+2,The BFG,1 July 2016 (USA),1h 57min,PG,"['\nAdventure, \nFamily, \nFantasy\n']",6.4/10
+3,Bridge of Spies,16 October 2015 (USA),2h 22min,PG-13,"['\nDrama, \nHistory, \nThriller\n']",7.6/10
+4,Lincoln,16 November 2012 (USA),2h 30min,PG-13,"['\nBiography, \nDrama, \nHistory\n']",7.3/10
+5,War Horse,25 December 2011 (USA),2h 26min,PG-13,"['\nAction, \nAdventure, \nDrama\n']",7.2/10
+6,The Adventures of Tintin,21 December 2011 (USA),1h 47min,PG,"['\nAnimation, \nAction, \nAdventure\n']",7.3/10
+7,A Timeless Call,27 August 2008 (USA),7min,N/A,['\n27 August 2008 (USA)'],5.5/10
+8,Indiana Jones and the Kingdom of the Crystal Skull,22 May 2008 (USA),2h 2min,PG-13,"['\nAction, \nAdventure\n']",6.1/10
+9,Munich,6 January 2006 (USA),2h 44min,R,"['\nAction, \nDrama, \nHistory\n']",7.5/10
+10,War of the Worlds,29 June 2005 (USA),1h 56min,PG-13,"['\nAdventure, \nSci-Fi, \nThriller\n']",6.5/10
+11,The Terminal,18 June 2004 (USA),2h 8min,PG-13,"['\nComedy, \nDrama, \nRomance\n']",7.4/10
+12,Catch Me If You Can,25 December 2002 (USA),2h 21min,PG-13,"['\nBiography, \nCrime, \nDrama\n']",8.1/10
+13,Minority Report,21 June 2002 (USA),2h 25min,PG-13,"['\nAction, \nCrime, \nMystery\n']",7.6/10
+14,A.I. Artificial Intelligence,29 June 2001 (USA),2h 26min,PG-13,"['\nDrama, \nSci-Fi\n']",7.2/10
+15,Jaws: Deleted Scenes,Video 2000,14min,N/A,['\nVideo 2000'],7.5/10
+16,The Unfinished Journey,31 December 1999 (USA),21min,N/A,['\n31 December 1999 (USA)'],5.6/10
+17,Saving Private Ryan,24 July 1998 (USA),2h 49min,R,"['\nDrama, \nWar\n']",8.6/10
+18,Amistad,25 December 1997 (USA),2h 35min,R,"['\nBiography, \nDrama, \nHistory\n']",7.3/10
+19,The Lost World: Jurassic Park,23 May 1997 (USA),2h 9min,PG-13,"['\nAction, \nAdventure, \nSci-Fi\n']",6.6/10
+20,Steven Spielberg's Director's Chair,Video game released 1 November 1996,N/A,Family,N/A,5.9/10
+21,Schindler's List,4 February 1994 (USA),3h 15min,R,"['\nBiography, \nDrama, \nHistory\n']",8.9/10
+22,Jurassic Park,11 June 1993 (USA),2h 7min,PG-13,"['\nAction, \nAdventure, \nSci-Fi\n']",8.1/10
+23,Hook,11 December 1991 (USA),2h 22min,PG,"['\nAdventure, \nComedy, \nFamily\n']",6.8/10
+24,The Visionary,Video,1h 30min,N/A,['\nVideo'],4.5/10
+25,Always,22 December 1989 (USA),2h 2min,PG,"['\nDrama, \nFantasy, \nRomance\n']",6.4/10
+26,Indiana Jones and the Last Crusade,24 May 1989 (USA),2h 7min,PG-13,"['\nAction, \nAdventure\n']",8.2/10
+27,Empire of the Sun,25 December 1987 (USA),2h 33min,PG,"['\nAction, \nDrama, \nHistory\n']",7.7/10
+28,Amazing Stories,10 July 1986 (Spain),1h 51min,N/A,['\n10 July 1986 (Spain)'],7.2/10
+29,The Color Purple,7 February 1986 (USA),2h 34min,PG-13,['\nDrama\n'],7.8/10
+30,Amazing Stories,TV Series (1985–1987),30min,PG,"['\nAdventure, \nComedy, \nDrama\n']",7.4/10
+31,Strokes of Genius,TV Mini-Series (1984– ),N/A,Documentary,N/A,5.7/10
+32,Indiana Jones and the Temple of Doom,23 May 1984 (USA),1h 58min,PG,"['\nAction, \nAdventure\n']",7.6/10
+33,Twilight Zone: The Movie,24 June 1983 (USA),1h 41min,PG,"['\nHorror, \nSci-Fi\n']",6.5/10
+34,E.T. the Extra-Terrestrial,11 June 1982 (USA),1h 55min,PG,"['\nFamily, \nSci-Fi\n']",7.8/10
+35,Raiders of the Lost Ark,12 June 1981 (USA),1h 55min,PG,"['\nAction, \nAdventure\n']",8.4/10
+36,1941,14 December 1979 (USA),1h 58min,PG,"['\nAction, \nComedy, \nWar\n']",5.8/10
+37,Close Encounters of the Third Kind,14 December 1977 (USA),2h 18min,PG,"['\nDrama, \nSci-Fi\n']",7.6/10
+38,Jaws,20 June 1975 (USA),2h 4min,PG,"['\nAdventure, \nThriller\n']",8.0/10
+39,The Sugarland Express,29 May 1974 (Sweden),1h 50min,PG,"['\nCrime, \nDrama\n']",6.8/10
+40,Savage,TV Movie 31 March 1973,1h 13min,N/A,['\nTV Movie 31 March 1973'],5.6/10
+41,Something Evil,TV Movie 21 January 1972,1h 13min,Unrated,['\nHorror\n'],5.4/10
+42,Duel,TV Movie 13 November 1971,1h 30min,PG,"['\nAction, \nThriller\n']",7.6/10
+43,"Owen Marshall, Counselor at Law",TV Series (1971–1974),1h,N/A,['\nTV Series (1971–1974)'],7.2/10
+44,Columbo,TV Series (1971–2003),1h 40min,TV-PG,"['\nCrime, \nDrama, \nMystery\n']",8.2/10
+45,The Psychiatrist,TV Series (1970– ),1h,N/A,['\nTV Series (1970– )'],7.0/10
+46,The Name of the Game,TV Series (1968–1971),1h 30min,TV-PG,"['\nAdventure, \nSci-Fi\n']",7.7/10
+47,Night Gallery,TV Series (1969–1973),50min,TV-PG,"['\nDrama, \nFantasy, \nHorror\n']",8.0/10
+48,"Marcus Welby, M.D.",TV Series (1969–1976),1h,TV-PG,['\nDrama\n'],7.0/10
+49,Amblin',18 December 1968 (USA),26min,R,"['\nShort, \nDrama, \nRomance\n']",6.4/10
+50,Slipstream,Short,N/A,Short,N/A,6.0/10
+51,Firelight,24 March 1964 (USA),2h 20min,N/A,['\n24 March 1964 (USA)'],5.7/10
+52,Escape to Nowhere,War,40min,N/A,N/A,5.6/10
+53,Fighter Squad,War,8min,N/A,N/A,6.4/10
+54,The Last Gun,Western,8min,N/A,N/A,6.9/10

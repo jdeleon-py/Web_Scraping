@@ -1,0 +1,22 @@
+Index,Movie Title,Release Date,Runtime,Age Rating,Genre(s),Review Rating
+0,Once Upon a Time... in Hollywood,26 July 2019 (USA),2h 41min,R,"['\nComedy, \nDrama\n']",7.7/10
+1,The Hateful Eight,30 December 2015 (USA),2h 48min,R,"['\nCrime, \nDrama, \nMystery\n']",7.8/10
+2,Django Unchained,25 December 2012 (USA),2h 45min,R,"['\nDrama, \nWestern\n']",8.4/10
+3,Kill Bill: The Whole Bloody Affair,27 March 2011 (USA),4h 7min,Not Rated,"['\nAction, \nCrime, \nThriller\n']",8.8/10
+4,Inglourious Basterds,21 August 2009 (USA),2h 33min,R,"['\nAdventure, \nDrama, \nWar\n']",8.3/10
+5,Death Proof,31 May 2007 (Hungary),2h 7min,TV-MA,"['\nAction, \nAdventure, \nThriller\n']",7.0/10
+6,Grindhouse,6 April 2007 (USA),3h 11min,R,"['\nAction, \nHorror, \nThriller\n']",7.5/10
+7,CSI: Crime Scene Investigation,TV Series (2000–2015),1h,TV-14,"['\nCrime, \nDrama, \nMystery\n']",7.6/10
+8,Sin City,1 April 2005 (USA),2h 4min,R,"['\nCrime, \nThriller\n']",8.0/10
+9,Jimmy Kimmel Live!,TV Series (2003– ),1h,TV-14,"['\nComedy, \nMusic, \nTalk-Show\n']",6.6/10
+10,Kill Bill: Vol. 2,16 April 2004 (USA),2h 17min,R,"['\nAction, \nCrime, \nThriller\n']",8.0/10
+11,Kill Bill: Vol. 1,10 October 2003 (USA),1h 51min,R,"['\nAction, \nCrime, \nThriller\n']",8.1/10
+12,Jackie Brown,25 December 1997 (USA),2h 34min,R,"['\nCrime, \nDrama, \nThriller\n']",7.5/10
+13,Four Rooms,25 December 1995 (USA),1h 38min,R,['\nComedy\n'],6.8/10
+14,ER,TV Series (1994–2009),44min,TV-14,"['\nDrama, \nRomance\n']",7.7/10
+15,Pulp Fiction,14 October 1994 (USA),2h 34min,R,"['\nCrime, \nDrama\n']",8.9/10
+16,Reservoir Dogs: Deleted Scenes,Video 27 August 2002,13min,N/A,['\nVideo 27 August 2002'],8.5/10
+17,Reservoir Dogs,2 September 1992 (France),1h 39min,R,"['\nCrime, \nDrama, \nThriller\n']",8.3/10
+18,Reservoir Dogs: Sundance Institute 1991 June Film Lab,Video June 1991,12min,N/A,['\nVideo June 1991'],6.2/10
+19,My Best Friend's Birthday,1987 (USA),1h 30min,Not Rated,['\nComedy\n'],5.7/10
+20,Love Birds in Bondage,1983 (USA),N/A,"Short, ",N/A,N/A
